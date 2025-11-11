@@ -18,9 +18,9 @@ Edit `src/main/resources/application.yml`:
 ```yaml
 app:
   candidate:
-    name: "Amit SR"          # CHANGE
-    regNo: "PES1UG22CS075"         # CHANGE
-    email: "amitsr882004@gmail.com" # CHANGE
+    name: "Amit SR"        
+    regNo: "PES1UG22CS075"         
+    email: "amitsr882004@gmail.com" #College email:pes1202203758@pesu.pes.edu
   sql:
     preferPdf: true
     oddPdfPath: "/absolute/path/to/SQL Question 1 JAVA .pdf"

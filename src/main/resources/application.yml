@@ -1,0 +1,21 @@
+app:
+  candidate:
+    name: "Amit SR"        
+    regNo: "PES1UG22CS075"      
+    email: "amitsr882004@gmail.com" 
+  sql:
+    preferPdf: true
+    oddPdfPath: "/Users/amits.r/Desktop/Bajaj_Spring/src/main/resources/sql/SQL Question 1 JAVA .pdf"
+    evenPdfPath: "/Users/amits.r/Desktop/Bajaj_Spring/src/main/resources/sql/SQL Qwestion  2 JAVA .pdf"
+
+http:
+  baseUrl: "https://bfhldevapigw.healthrx.co.in"
+  generateWebhookPath: "/hiring/generateWebhook/JAVA"
+  fallbackSubmitPath: "/hiring/testWebhook/JAVA"
+
+logging:
+  level:
+    root: INFO
+    com.bajaj.bfh: DEBUG
+
+
